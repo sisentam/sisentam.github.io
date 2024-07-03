@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sisentam.github.io/sitemap
+Sitemap: https://sisentam.github.io/app/sitemap
+Sitemap: https://sisentam.github.io/assets/sitemap
+Sitemap: https://sisentam.github.io/css/sitemap
+Sitemap: https://sisentam.github.io/includes/sitemap
+Sitemap: https://sisentam.github.io/item/sitemap
+Sitemap: https://sisentam.github.io/src/sitemap
